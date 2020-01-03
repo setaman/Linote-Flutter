@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
       body: Container(
         child: Center(
           child: Text(
-              'Creating awesome app...'
+            'Creating awesome app...',
           ),
         ),
       ),

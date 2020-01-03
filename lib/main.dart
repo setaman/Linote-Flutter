@@ -12,6 +12,7 @@ class Linote extends StatelessWidget {
       title: 'Linote',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: 'Quicksand'
       ),
       home: Home()
     );
