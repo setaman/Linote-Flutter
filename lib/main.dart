@@ -14,7 +14,7 @@ class Linote extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: 'Quicksand'
       ),
-      home: Home()
+      home: Home2()
     );
   }
 }
